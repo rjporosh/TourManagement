@@ -1,0 +1,82 @@
+﻿@model TourManagementApps.Models.TourPackage
+
+@{
+    ViewBag.Title = "Details Tour Package";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PackageType.PackageName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PackageType.PackageName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AgentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AgentName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AgentNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AgentNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TourPlace)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TourPlace)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Days)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Days)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

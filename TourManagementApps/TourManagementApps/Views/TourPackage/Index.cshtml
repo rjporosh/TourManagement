@@ -1,0 +1,76 @@
+﻿@model IEnumerable<TourManagementApps.Models.TourPackage>
+
+@{
+    ViewBag.Title = "Tour Package";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<button class="btn btn-sm btn-success btn-add">
+    @Html.ActionLink("Add New Tour Package", "Create")
+</button>
+<table class="table table-responsive table-bordered table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PackageType.PackageName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgentNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TourPlace)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Days)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th width="150">Action</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Category.CategoryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PackageType.PackageName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgentNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TourPlace)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Days)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,173 @@
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll.config
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\TourManagementApps.pdb
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\EntityFramework.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Owin.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Razor.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\WebGrease.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.Razor.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.pdb
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\EntityFramework.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.AddedAllModules.resources
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.ChangeAgentInquiryModel.resources
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.csproj.GenerateResource.Cache
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.dll
+D:\ASP.NET@Projects\ASP.NET-2K18\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.pdb
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll.config
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.pdb
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Web.Infrastructure.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Owin.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Razor.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\WebGrease.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Razor.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.pdb
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.csprojResolveAssemblyReference.cache
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.AddedAllModules.resources
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.ChangeAgentInquiryModel.resources
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.csproj.GenerateResource.Cache
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.dll
+F:\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.pdb
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll.config
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\TourManagementApps.pdb
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Web.Infrastructure.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Owin.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Razor.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\WebGrease.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Helpers.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Mvc.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Optimization.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.Razor.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Deployment.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\System.Web.WebPages.Razor.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Newtonsoft.Json.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Antlr3.Runtime.pdb
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\EntityFramework.SqlServer.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Google.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.csprojResolveAssemblyReference.cache
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.AddedAllModules.resources
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.Migrations.ChangeAgentInquiryModel.resources
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.csproj.GenerateResource.Cache
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.dll
+F:\Entertainment\Learning\Tour Management Project\TourManagementApps\TourManagementApps\obj\Debug\TourManagementApps.pdb
